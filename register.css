@@ -1,0 +1,14 @@
+footer
+{
+background-color:#4D4D4D;
+position:fixed;
+bottom:0;
+right:0;
+left:0;
+height: 40px;
+text-align: center;
+color:#FFFFFF;
+font-family: 'Bitter', serif;
+font-size: 14px;
+border-bottom:#000000 solid 1px; 
+}
